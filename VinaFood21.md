@@ -36,7 +36,7 @@ VinaFood21 is a more comprehensive food dataset that surpasses existing Vietname
 If the project helps your research, please cite this paper.
 
 ```
-@article{Thuan,
+@inproceedings{Thuan,
   title={VinaFood21: A Novel Dataset for Evaluating Vietnamese Food Recognition},
   author={Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Nguyen D. Vo, Kiet Van Nguyen, Khang Nguyen},
   booktitle={In Proceedings of the 15th IEEE-RIVF International Conference on Computing and Communication Technologies (RIVF)},
