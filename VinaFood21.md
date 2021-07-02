@@ -6,7 +6,7 @@ Paper: *VinaFood21: A Novel Dataset for Evaluating Vietnamese Food Recognition, 
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: Link [](https://forms.gle/1dKs2kVpJWT4473G9)
+Registering to use Dataset:  [[Link](https://forms.gle/1dKs2kVpJWT4473G9)]
 
 ![](https://i.imgur.com/gzqaTwi.png)
 Illustration 21 dishes in VinaFood21
