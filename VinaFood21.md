@@ -1,4 +1,3 @@
-# uit-together-dataset
 # VinaFood21
 
 Author: *Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Nguyen D. Vo, Kiet Van Nguyen, Khang Nguyen*
@@ -27,6 +26,21 @@ In this phase, we perform two different sub-stages to checkmistaken in data labe
 ## Dataset Description
 After completing the above works, VinaFood21 contains 13,950 images are corresponding to 21 dishes. The total dataset size is 2GB.The number of images per category is in the range of (300,1200) .
 VinaFood21 is a more comprehensive food dataset that surpasses existing Vietnamese Food datasets from the following three aspects.
-(1) Larger data volume: VinaFood21 has13,950 images from21dishes, which has created a new milestone for complexVietnamese food recognition.
-(2) More extensive category coverage:It consists of21categories, which is about 2~3 times thatof existing Vietnamese food datasets.
-(3) Higher diversity: Foodcategories from our dataset cover various high intra-class distances(different look but similar type) and low inter-class distances (similarlook but different type), including both street food and a daily meal.Moreover, our dataset is more challenging in various layouts, sidedishes, and dishes in different lighting conditions
+1. Larger data volume: VinaFood21 has 13,950 images from21dishes, which has created a new milestone for complexVietnamese food recognition.
+1. More extensive category coverage:It consists of21categories, which is about 2~3 times thatof existing Vietnamese food datasets.
+1. Higher diversity: Foodcategories from our dataset cover various high intra-class distances(different look but similar type) and low inter-class distances (similarlook but different type), including both street food and a daily meal.Moreover, our dataset is more challenging in various layouts, sidedishes, and dishes in different lighting conditions
+
+## Citation
+If the project helps your research, please cite this paper.
+
+```
+@article{Thuan,
+  title={VinaFood21: A Novel Dataset for Evaluating Vietnamese Food Recognition},
+  author={Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Nguyen D. Vo, Kiet Van Nguyen, Khang Nguyen},
+  booktitle={In Proceedings of the 15th IEEE-RIVF International Conference on Computing and Communication Technologies (RIVF)},
+  pages={},
+  year={2021},
+  organization={IEEE}
+}
+
+```
