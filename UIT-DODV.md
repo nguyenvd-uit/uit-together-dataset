@@ -6,7 +6,7 @@ Paper: *Parsing Digitized Vietnamese Paper Documents*
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link](https://forms.gle/1dKs2kVpJWT4473G9)]
+Registering to use Dataset: [[Link](https://forms.gle/wCiv9LgKdnjtTCUh6)]
 
 ![](https://i.imgur.com/9R58GiZ.png)
 Exemplary samples in UIT-DODV dataset.
