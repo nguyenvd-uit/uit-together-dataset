@@ -15,7 +15,7 @@ Exemplary samples in UIT-DODV dataset.
 We collected the data from the scientific paper available on the website of Can Tho University (CTU). In addition, we used the physical scanner and the scanning app on smartphone to scan the hard-copy of National Conference "Some Selected Issues of Information Technology and Communication" from the following versions:
 
 * The XXI edition with the topic "Internet of Things" was held from July 27-28, 2018, at Hong Duc University, Thanh Hoa Province.
-* The XXII edition with the topic "Transforming the number of socio-economic operating in the Industry 4.0" was held from June 28 to 29, 2019, at Thai Binh University, Thai Binh Province.
+*The XXII edition with the topic "Transforming the number of socio-economic operating in the Industry 4.0" was held from June 28 to 29, 2019, at Thai Binh University, Thai Binh Province.
 
 
 The images in UIT-DODV are created by converting paper documents to digital images, using document conversion program, physical scanners and scanning app on smartphone. The purpose of collecting data from multiple sources is to create diversity for data in terms of layout, presentation form and data domain is also expanded with scanned images instead of just using the transferred image convert from PDF. After collecting the desired data, we proceeded to label attachments. Instead of tagging the data from where, we used the pretrain model from the PAA method to predict the bounding box for the object before manually editing those objects.
