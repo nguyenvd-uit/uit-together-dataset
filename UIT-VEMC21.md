@@ -9,6 +9,7 @@ Organization: *UIT-Together*
 Registering to use Dataset: [[Link](https://docs.google.com/forms/d/e/1FAIpQLScj1Htna_QA_QEBH433NprLlzUk7N2nlnByZb1hjWGXG6GJ2A/viewform)]
 
 ![](https://i.imgur.com/nyNJsBG.png)
+
 Illustration 10 clothing items in UIT-VEMC21
 
 
