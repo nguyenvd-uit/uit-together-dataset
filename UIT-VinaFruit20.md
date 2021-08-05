@@ -9,6 +9,7 @@ Organization: *UIT-Together*
 Registering to use Dataset: [[Link](https://forms.gle/c7GCU4igG53PhVWp7)]
 
 ![](https://i.imgur.com/iUkFPHP.png)
+
 Illustration 20 fruits in UIT-VinaFruit20
 
 
