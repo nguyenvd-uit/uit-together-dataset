@@ -54,7 +54,7 @@ UIT-VEMC21 is one of the first datasets about ethnic minority costumes in Vietna
 If the project helps your research, please cite this paper.
 
 ```
-@article{,
+@article{
 
 }
 
