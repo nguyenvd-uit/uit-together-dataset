@@ -54,13 +54,9 @@ UIT-VEMC21 is one of the first datasets about ethnic minority costumes in Vietna
 If the project helps your research, please cite this paper.
 
 ```
-@article{Tuyen,
-  title={Phân loại trang phục dân tộc thiểu số Việt Nam},
-  author={Huynh Thi Bich Tuyen, Trinh Thi Thanh Truc, Vo Duy Nguyen, Nguyen Tan Tran Minh Khang},
-  booktitle={Hội nghị Khoa học trẻ và Nghiên cứu sinh UIT},
-  pages={},
-  year={2021},
-  organization={IEEE}
+@article{,
+
 }
 
+```
 ```
