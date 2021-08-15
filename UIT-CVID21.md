@@ -6,7 +6,7 @@
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link]()]
+Registering to use Dataset: [[Link](https://docs.google.com/forms/d/1g4xD16MVNcTHTZ_AGSSmTTR8JuG9im4K16retOy7yfM/edit?ts=61172adc)]
 
 ![](https://i.imgur.com/WCTHZQQ.png)
 
