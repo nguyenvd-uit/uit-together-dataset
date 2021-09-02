@@ -1,6 +1,6 @@
 # UIT-Flower
 
-Author: *Khang Nguyen,,  An Nguyen, Truc Nguyen, Thi Ngo,  Hao Le, Thien Lai ,  Bao Tran, Toan Nguyen,  Thuan Trong Nguyen , Nguyen D. Vo*
+Author: *Khang Nguyen,  An Nguyen, Truc Nguyen, Thi Ngo,  Hao Le, Thien Lai ,  Bao Tran, Toan Nguyen,  Thuan Trong Nguyen , Nguyen D. Vo*
 
 Paper: *A Comparative Study On Different Feature Extraction In Flower Classification*
 
