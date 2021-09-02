@@ -16,7 +16,7 @@ Illustration 20 fruits in UIT-VinaFruit20
 ## Category Selection
 Located in the tropical zone, Vietnam is truly a heaven when it comes to fruits. There are even tours arranged exclusively for tourists who love visiting orchards to witness how the fruits are grown and try fresh fruits in the garden. Many Fruit Festivals are held in many local annual, attracting millions of locals and foreign visitors. Therefore, we examined many websites about travels with several blogs written for Vietnamese cuisine then summarized the most well-known Vietnamese fruit, which received high recommendations from locals and foreigners. After that, we found that 20 popular fruits to start our first step to building the Vietnamese fruit dataset is to collect the data.
 
-## 3.2.	Data Annotation
+## Data Annotation
 We primarily collect images from Google images. We expanded search terms by adding some keywords. In addition, we also used smartphones to take photos of fruit that we met on a daily day.  We collected approximately 100,000 images, which are saved in 20 different folders named by each fruit. However, these images may be kept in an incorrectly labeled folder. Furthermore, images are low quality and duplicates. Hence, we conduct data cleaning by removing duplicated and low-quality images as well as moving images to the correct folder. 
 In the next step, we want to ensure neither mistakes in each class nor enhance our dataset's quality. Therefore, we performed two sub-stages to verify labels. 
 * The first sub-stage is for each people re-check their label.
