@@ -34,6 +34,11 @@ UIT-VinaFruit20 contains 63,541 images are corresponding to 20 Vietnam popular f
 If the project helps your research, please cite this paper.
 
 ```
-
+@article{UIT-VinaFruit20,
+  title={An Empirical Evaluation Of Feature Extraction For Vietnamese Fruit Classification},
+  author={Thuan Trong Nguyen, Hai Le, Truong Nguyen,  Thinh Le,  Khanh Duong,  Quyen Tran,  Vu Bui, Hop Nguyen, Nguyen D. Vo, Khang Nguyen},
+  booktitle={Vietnam Journal of Science, Technology and Engineering},
+  year={2021},
+}
 
 ```
