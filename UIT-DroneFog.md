@@ -2,6 +2,7 @@
 Registering to use Dataset: [[Link](https://forms.gle/4PpEspSKVeQtFjbbA)]
 
 ![](https://i.imgur.com/2H3pTCK.jpg)
+
 Exemplary samples in UIT-DroneFog dataset.
 ## Foggy simulation process
 In this work, the imgaug library was implemented to create synthetic fog for our dataset. We simulated fog on the UIT-Drone21 dataset with the use of this library’s Fog class, which has predefined different parameters. This class executes a single layer per image with a configuration leading to fairly dense fog with low-frequency patterns. However, to simulate suitable fog with the image’s size of the chosen dataset, we decided to adjust two parameters, which were alpha_min “0.75 and density_multiplier = 0.7, and kept other parameters as the default library (https://imgaug.readthedocs.io):
