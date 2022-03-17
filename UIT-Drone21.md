@@ -1,7 +1,8 @@
 # UIT-Drone21
 
+Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link](https://forms.gle/nKbtYJqH6ZrpHrAu6)]
+Registering to use UIT-Drone: [[Link](https://forms.gle/nKbtYJqH6ZrpHrAu6)]
 
 ![](https://i.imgur.com/59eZj4I.png)
 Exemplary samples in UIT-Drone21 dataset.

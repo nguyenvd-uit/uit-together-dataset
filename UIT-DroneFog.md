@@ -1,5 +1,12 @@
 # UIT-DroneFog
-Registering to use Dataset: [[Link](https://forms.gle/4PpEspSKVeQtFjbbA)]
+
+Author: *Minh T. Tran, Bao Tran, Nguyen D. Vo, Khang Nguyen*
+
+Paper: *UIT-DroneFog: Toward High-performance Object Detection Via High-quality Aerial Foggy Dataset*
+
+Organization: *UIT-Together*
+
+Registering to use UIT-DroneFog: [[Link](https://forms.gle/4PpEspSKVeQtFjbbA)]
 
 ![](https://i.imgur.com/2H3pTCK.jpg)
 
@@ -16,3 +23,17 @@ UIT-DroneFog consists of 15,370 aerial images captured by drones with about 600,
 * Variety of high-quality images: The foggy simulation process used images captured by high-end drones with 3 different resolutions (3840x2160, 1920x1080, 1440x1080), which led to our foggy images being all in high-quality images and are not blurred, distorted, skewed, or obscured. 
 * Variety of context: Every image in our dataset is unique. They differ in fog distribution, capturing angle, and height. Moreover, we simulated fog not only in one place but in various places in different cities in Vietnam. 
 * The challenge comes from data classes: Because this dataset was made on Vietnam streets, the vast majority of objects are motors. This data imbalance is a tough challenge for detectors to work efficiently. Besides, motors densely appear on the roads and they are very small, which leads to the difficulty in detecting these objects quickly. 
+
+## Citation
+If the project helps your research, please cite this paper.
+
+```
+@inproceedings{tran2021uit,
+  title={UIT-DroneFog: Toward High-performance Object Detection Via High-quality Aerial Foggy Dataset},
+  author={Tran, Minh T and Tran, Bao V and Vo, Nguyen D and Nguyen, Khang},
+  booktitle={2021 8th NAFOSTED Conference on Information and Computer Science (NICS)},
+  pages={290--295},
+  year={2021},
+  organization={IEEE}
+}
+```

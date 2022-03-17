@@ -1,7 +1,13 @@
 # UIT-Anomaly
 
+
+Author: *Dung Vo, Tung Minh Tran, Nguyen D. Vo and Khang Nguyen*
+
+Paper: *UIT-Anomaly: A Modern Vietnamese Video Dataset for Anomaly Detection, NICS2021*
+
 Organization: *UIT-Together*
-Registering to use Dataset: [[Link](https://forms.gle/uWaVkwF71AZcaaYG8)]
+
+Registering to use UIT-Anomaly: [[Link](https://forms.gle/uWaVkwF71AZcaaYG8)]
 
 ![](https://i.imgur.com/MsmPVCr.png)
 

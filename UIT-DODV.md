@@ -6,7 +6,7 @@ Paper: *Parsing Digitized Vietnamese Paper Documents*
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link](https://forms.gle/wCiv9LgKdnjtTCUh6)]
+Registering to use UIT-DODV: [[Link](https://forms.gle/wCiv9LgKdnjtTCUh6)]
 
 ![](https://i.imgur.com/9R58GiZ.png)
 Exemplary samples in UIT-DODV dataset.
@@ -42,11 +42,11 @@ The annotation files follows 3 format:
 If the project helps your research, please cite this paper.
 
 ```
-@article{Linh,
-  title={UIT-DODV: Parsing Digitized Vietnamese Paper Documents},
-  author={Linh Truong Dieu, Thuan Trong Nguyen, Nguyen D. Vo, Tam V. Nguyen, Khang Nguyen},
-  booktitle={In Proceedings of the The 19th International Conference on Computer Analysis of Images and Patterns (CAIP)},
-  pages={},
+@inproceedings{dieu2021parsing,
+  title={Parsing Digitized Vietnamese Paper Documents},
+  author={Dieu, Linh Truong and Nguyen, Thuan Trong and Vo, Nguyen D and Nguyen, Tam V and Nguyen, Khang},
+  booktitle={International Conference on Computer Analysis of Images and Patterns},
+  pages={382--392},
   year={2021},
   organization={Springer}
 }

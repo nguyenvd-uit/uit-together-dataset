@@ -6,7 +6,7 @@ Paper: *A Comparative Study On Different Feature Extraction In Flower Classifica
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link](https://forms.gle/D8MNffV1WV6gbBQS9)]
+Registering to use UIT-Flower: [[Link](https://forms.gle/D8MNffV1WV6gbBQS9)]
 
 
 
