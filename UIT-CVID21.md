@@ -1,12 +1,14 @@
 # UIT-CVID21
 
+Organization: *UIT-Together*
 
+Author: *Truc Trinh, Nguyen D. Vo and Khang Nguyen*
 
-
+Paper: *Phân loại phương tiện giao thông Việt Nam trong không ảnh, JSTIC*
 
 Organization: *UIT-Together*
 
-Registering to use Dataset: [[Link](https://docs.google.com/forms/d/1g4xD16MVNcTHTZ_AGSSmTTR8JuG9im4K16retOy7yfM/edit?ts=61172adc)]
+Registering to use UIT-CVID21: [[Link](https://forms.gle/aajmoJ7n9L6Hpsrk8)]
 
 ![](https://i.imgur.com/WCTHZQQ.png)
 
@@ -43,8 +45,12 @@ After labeling in Pascal VOC format, we crop the image into small pieces of obje
 If the project helps your research, please cite this paper.
 
 ```
-@article{
-
+@article{cvid21@truc,
+  title={Phân loại phương tiện giao thông Việt Nam trong không ảnh},
+  author={Trịnh Thị Thanh Trúc, Võ Duy Nguyên, Khang Nguyễn},
+  booktitle={Journal of Science and Technology on Information and Communications (JSITC)},
+  pages={},
+  year={2021}
 }
 
 ```
