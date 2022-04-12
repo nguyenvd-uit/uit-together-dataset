@@ -2,7 +2,7 @@ UIT-VinaDeveS22 has 1364 images captured from frames in videos which collected b
     
  ![](https://i.imgur.com/NmBbBci.jpg)
 
-Figure 1. Some samples in UIT-VinaDeveS22 dataset
+Some samples in UIT-VinaDeveS22 dataset
 
 UIT-VinaDeveS22 has the following highlights:
 
