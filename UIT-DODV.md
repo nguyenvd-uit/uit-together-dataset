@@ -1,6 +1,7 @@
 # UIT-DODV
 
 Author: *Linh Truong Dieu, Thuan Trong Nguyen, Nguyen D. Vo, Tam V. Nguyen, Khang Nguyen*
+
 Annotator: *Linh Truong Dieu, Thuan Trong Nguyen, Thuan Q. Nguyen, Chau Pham, Duyen Le, Phuc Le, Linh Tran, Dung Bui, Hao Phan, Bao Nguyen, Hau Pham, Quynh Nguyen, Tuan Le, Nen Lu, Khang Nguyen, Trung Phan*
 Paper: *Parsing Digitized Vietnamese Paper Documents*
 
