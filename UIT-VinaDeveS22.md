@@ -7,7 +7,7 @@ Paper: *A Vietnamese benchmark for vehicle detection and real-time empirical eva
 
 Organization: *UIT-Together*
 
-Registering to use UIT-Anomaly: [[Link](https://forms.gle/odEeaXsfNV2anCYj6)]
+Registering to use UIT-VinaDeveS22: [[Link](https://forms.gle/odEeaXsfNV2anCYj6)]
 
 
 UIT-VinaDeveS22 has 1364 images captured from frames in videos which collected by CCTV. The resolution of this dataset is about 553×1012 pixel which its smallest is 354×630 pixel and largest is 720×1280 pixel. Dataset include 15473 objects which belong to 08 classes i.e. bicycle, motorcycle, car, van, truck, bus, fire truck.
